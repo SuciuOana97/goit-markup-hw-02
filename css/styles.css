@@ -5,6 +5,7 @@
   --logo-color: R #4d5ae5;
   --background-color-portfolio: R #f4f4fd;
 }
+
 /*Global styes*/
 
 body {
@@ -35,9 +36,6 @@ body {
   color: var(--logo-color);
 }
 
-.link {
-  text-decoration: none;
-}
 .logo-span-dark {
   color: var(--brand-color);
 }
