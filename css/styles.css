@@ -10,11 +10,9 @@
 body {
   color: #434455;
   background-color: var(--backgound-color);
-  a {
-    text-decoration: none;
-    font-family: "Roboto", sans-serif;
-    background-color: #ffffff;
-  }
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
 }
 
 .body-studio {
