@@ -35,7 +35,9 @@ body {
   text-transform: uppercase;
   color: var(--logo-color);
 }
-
+.link {
+  text-decoration: none;
+}
 .logo-span-dark {
   color: var(--brand-color);
 }
