@@ -95,3 +95,13 @@ body {
   letter-spacing: 1.12px;
   background-color: #2e2f42;
 }
+.buttontype {
+  color: var(--background-color);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+  background-color: #4d5ae5;
+}
