@@ -58,7 +58,7 @@ body {
   color: var(--brand-color);
 }
 
-.address-mail {
+.contacts-email {
   color: var(--SLATE, #434455);
   font-family: Raleway;
   font-size: 18px;
@@ -68,7 +68,7 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.address-tel {
+.contacts-tel {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
