@@ -43,7 +43,7 @@ body {
   font-weight: 500;
 }
 .nav-link {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: var(--text-color);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -55,22 +55,15 @@ body {
 .nav-link:focus {
   color: var(--background-color-button);
 }
+.list {
+  list-style: none;
+}
 
 .address {
   font-style: normal;
 }
 .contacts-email {
-  color: var(--SLATE, #434455);
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 800;
-  line-height: 21px;
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-}
-.contacts-tel {
-  color: var(--SLATE, #434455);
+  color: var(--text-color);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -78,17 +71,27 @@ body {
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
 }
+.contacts-tel {
+  color: var(--text-color);
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
 .section1 {
   /*sections*/
 }
 .title {
-  color: var(--WHITE, #fff);
+  color: var(--background-color);
+  width: 496px;
   text-align: center;
-  /* Header 1 */
   font-family: "Roboto", sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
+  background-color: #2e2f42;
 }
