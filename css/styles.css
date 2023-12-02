@@ -5,3 +5,16 @@
   --logo-color: R #4d5ae5;
   --background-color-portfolio: R #f4f4fd;
 }
+
+body {
+  color: #434455;
+  background-color: var(--backgound-color);
+}
+
+.body-studio {font-family: 'Roboto', sans-serif;
+}
+
+/*antet/
+
+
+
