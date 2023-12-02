@@ -1,9 +1,9 @@
 :root {
-  --background-color: R #ffffff;
-  --text-color: R #434455;
-  --brand-color: R #2e2f42;
-  --logo-color: R #4d5ae5;
-  --background-color-portfolio: R #f4f4fd;
+  --background-color: #ffffff;
+  --text-color: #434455;
+  --brand-color: #2e2f42;
+  --logo-color: #4d5ae5;
+  --background-color-portfolio: #f4f4fd;
 }
 
 /*Global styes*/
@@ -11,9 +11,6 @@
 body {
   color: #434455;
   background-color: var(--background-color);
-  text-decoration: none;
-  font-family: "Roboto", sans-serif;
-  background-color: #ffffff;
 }
 
 .body-studio {
@@ -59,4 +56,38 @@ body {
 .nav-link:hover,
 .nav-link:focus {
   color: var(--brand-color);
+}
+
+.address-mail {
+  color: var(--SLATE, #434455);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.address-tel {
+  color: var(--SLATE, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+.section1 {
+  /*sections*/
+}
+.title {
+  color: var(--WHITE, #fff);
+  text-align: center;
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
 }
