@@ -9,12 +9,9 @@
 /*Global styes*/
 
 body {
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: var(--background-color);
-}
-
-.body-studio {
-  font-family: "Roboto", sans-serif;
 }
 
 /*header*/
