@@ -30,3 +30,16 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+
+.link {
+  text-decoration: none;
+}
+.logo-span-dark {
+  color: var(--brand-color);
+}
+.list {
+  list-style: none;
+}
+.nav-link {
+  font-weight: 500;
+}
