@@ -1,5 +1,5 @@
 :root {
-  --backgound-color: R #ffffff;
+  --background-color: R #ffffff;
   --text-color: R #434455;
   --brand-color: R #2e2f42;
   --logo-color: R #4d5ae5;
@@ -10,7 +10,7 @@
 
 body {
   color: #434455;
-  background-color: var(--backgound-color);
+  background-color: var(--background-color);
   text-decoration: none;
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
@@ -30,7 +30,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--logo-color);
