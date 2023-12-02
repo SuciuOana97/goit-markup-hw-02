@@ -4,6 +4,8 @@
   --brand-color: R #2e2f42;
   --logo-color: R #4d5ae5;
   --background-color-portfolio: R #f4f4fd;
+  --text-font-family: "Roboto", sans-serif;
+  --header-font-family: "Raleway", sans-serif;
 }
 
 body {
@@ -11,10 +13,6 @@ body {
   background-color: var(--backgound-color);
 }
 
-.body-studio {font-family: 'Roboto', sans-serif;
+.body-studio {
+  font-family: "Roboto", sans-serif;
 }
-
-/*antet/
-
-
-
