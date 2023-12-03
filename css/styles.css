@@ -117,7 +117,7 @@ body {
   list-style-type: none;
 }
 
-.quality-header {
+.team-member-header {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
   font-weight: 500;
@@ -125,7 +125,7 @@ body {
   letter-spacing: 0.4px;
 }
 
-.quality-description {
+.team-member-description {
   color: var(--SLATE, #434455);
   font-size: 16px;
   line-height: 150%; /* 150% */
